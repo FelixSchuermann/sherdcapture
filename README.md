@@ -14,3 +14,5 @@ pyserial==3.4
 
 +Metashape-Pro
 
+
+run: python3 capture.py
